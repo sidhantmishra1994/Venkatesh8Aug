@@ -4,9 +4,10 @@
 <div id="intro">
 	<h2>Welcome to the Greenhouse!</h2>
 	<p>
-		We make it fun to be an application developer.
+		Welcome to the largest Organic Retail Store in Australia and New Zealand .
 	</p>
 	<p>
-		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	
+		Please login and Order Organic food from the nature's basket. We ship across ANZ 	
 	</p>
+	<img src="./image1.png" alt="Flowers in China" width="460" height="345">
 </div>

@@ -27,6 +27,7 @@
 	<p><a href="<c:url value="/reset" />">Forgot your password?</a></p>
 </form>
 
+
 <c:if test="${!currentDevice.mobile}">
 <form id="facebook_signin" action="<c:url value="/signin/facebook" />" method="post">
 	<button type="submit">Sign in with Facebook</button>

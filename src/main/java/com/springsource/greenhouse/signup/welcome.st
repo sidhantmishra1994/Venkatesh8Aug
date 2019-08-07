@@ -1,6 +1,7 @@
 Welcome to the Greenhouse, $firstName$!
 
-The Greenhouse is a place for application developers to connect and stay on top of everything happening in the Spring community.
+The Greenhouse is the largest retail chain for Organic Plants in Australia.
+We deliver plants on demand across Australia and NewZealand 
 
 View your member profile at:
 $profileUrl$
